@@ -24,9 +24,9 @@ const questions = [
     name: "name"
 },
 {
-    type: "confirm",
-    message: "Do you want a Table of Contents?",
-    name: "toc"
+    type: "input",
+    message: "Please enter the desciption of your project.",
+    name: "description"
 },
 {
     type: "input",
@@ -76,11 +76,10 @@ const questions = [
 async function init() {
     const answers = await inquirer.prompt(questions);
     const htmlString = generateMarkdown(answers);
-    await writeToFile("README.md", answers);
+    await fs.writeFileSync("README.md", htmlString, (err) => console.log(err));
 
     console.log(answers);
-
-}
+};
 
 // function call to initialize program
 init();
