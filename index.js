@@ -71,9 +71,7 @@ const questions = [
 async function init() {
     const answers = await inquirer.prompt(questions);
     const htmlString = generateMarkdown(answers);
-    await fs.writeFileSync("README.md", htmlString, (err) => console.log(err));
-
-    console.log(answers);
+    await writeToFile("README.md", htmlString, (err) => console.log(err));    
 };
 
 // function call to initialize program

@@ -1,9 +1,9 @@
-# ReadMe Generator
+# d
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description 
-
-It's a very cool project Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet felis at urna congue, ac varius erat aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut viverra dignissim libero, vitae porta lorem laoreet id. Pellentesque auctor, nulla ac rhoncus ultrices, libero diam ultrices nisi, a viverra arcu est sit amet nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus luctus ex non mattis. Vivamus a tempor nisi. Vestibulum rutrum, sapien vitae fermentum efficitur, ipsum leo pellentesque orci, vitae aliquam ante mauris vel nibh.
-
+d
 
 ## Table of Contents
 * [Installation](#installation)
@@ -13,39 +13,40 @@ It's a very cool project Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 ## Installation
+To install, use the command below:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet felis at urna congue, ac varius erat aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut viverra dignissim libero, vitae porta lorem laoreet id. Pellentesque auctor, nulla ac rhoncus ultrices, libero diam ultrices nisi, a viverra arcu est sit amet nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus luctus ex non mattis. Vivamus a tempor nisi. Vestibulum rutrum, sapien vitae fermentum efficitur, ipsum leo pellentesque orci, vitae aliquam ante mauris vel nibh.
+` $ npm i `
 
 
 ## Usage 
+To run the package after you've installed it, run the command below:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque aliquet felis at urna congue, ac varius erat aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut viverra dignissim libero, vitae porta lorem laoreet id. Pellentesque auctor, nulla ac rhoncus ultrices, libero diam ultrices nisi, a viverra arcu est sit amet nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempus luctus ex non mattis. Vivamus a tempor nisi. Vestibulum rutrum, sapien vitae fermentum efficitur, ipsum leo pellentesque orci, vitae aliquam ante mauris vel nibh.
+` $ d `
 
 
 ## Credits
+d
 
-I'd like to thank my mom and all those who have helped me get where I am.
-
-
-## License
-
-@marvel, @lucas, @arianagrande
-
----
+----
 ## Badges
 
-![top](https://img.shields.io/github/languages/top/nicschworer/09_README_Generator)
+![top](https://img.shields.io/github/languages/top/asfjkl/d)
 
-![count](https://img.shields.io/github/languages/count/nicschworer/09_README_Generator)
+![count](https://img.shields.io/github/languages/count/asfjkl/d)
 
-![downloads](https://img.shields.io/github/downloads/nicschworer/09_README_Generator/total)
+![downloads](https://img.shields.io/github/downloads/asfjkl/d/total)
 
 
 ## Contributing
 
-Just work on it and commit better things, idfag
+d
 
 
 ## Tests
 
-no tests, please test it. 
+d
+
+----
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
