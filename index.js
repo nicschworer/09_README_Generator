@@ -30,15 +30,15 @@ const questions = [
 },
 {
     type: "input",
-    message: "What are the intsallation instructions for your application?",
+    message: "What command is needed to install your application?",
     name: "instal",
-    default: "N/A"
+    default: "npm i"
 },
 {
     type: "input",
-    message: "What are the instructions on how to use your app?",
+    message: "What command should be used to run your app?",
     name: "instruct",
-    default: "N/A"
+    default: "node"
 },
 {
     type: "input",
@@ -46,17 +46,12 @@ const questions = [
     name: "credit",
     default: "N/A"
 },
+
 {
-    type: "input",
-    message: "Give credit where credit's due.",
-    name: "credit",
-    default: "N/A"
-},
-{
-    type: "input",
-    message: "Did you use any licenses?",
+    type: "list",
+    message: "Which license would you like to use?",
     name: "license",
-    default: "N/A"
+    choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "None"],
 },
 {
     type: "input",
