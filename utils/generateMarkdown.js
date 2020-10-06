@@ -67,8 +67,16 @@ ${data.tests}
 ----
 
 ## License
-${licenseURL}`;
 
-}
+${licenseURL}
+
+
+## Questions
+
+Check out more of my stuff on my [GitHub](https://github.com/${data.git}.
+If you have any questions, feel free to email me at ${data.email}.`
+
+
+};
 
 module.exports = generateMarkdown;
